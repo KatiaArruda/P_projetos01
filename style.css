@@ -5,17 +5,17 @@
 }
 
 :root {
-  --bg-color: #212529;
+  --bg-color: #000000;
   --border-color: #666;
-  --font-color: #f1f5f9;
-  --primary-color: #4dff91;
+  --font-color: #ee82ee;
+  --primary-color: #bc8f8f;
   --error-color: #ff0043;
 }
 
 body {
   background-color: var(--bg-color);
   color: var(--font-color);
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 main {
