@@ -1,4 +1,4 @@
-# P_projetos01
+# P_projetos01 - Calculadora
 Portifólio de Projetos Pessoais - 
 Esse projeto foi desenvolvido no curso Javascript da OneBitCode. 
 As tecnologias ultilizadas foram: Html, Css e JavaScript.
