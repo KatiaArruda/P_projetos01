@@ -16,6 +16,13 @@ body {
   background-color: var(--bg-color);
   color: var(--font-color);
   font-family: 'Open Sans', sans-serif;
+  border: solid;
+  border-radius: 20%;
+  height: 43rem;
+  max-width: 52rem;
+  margin: 2px;
+  padding: 2px;
+  align-items: center;
 }
 
 main {
