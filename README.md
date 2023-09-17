@@ -1,4 +1,4 @@
-# P_projetos01
+# P_projeto01
 Projeto:Calculadora
 
 📝 No P_projetos, serão demonstrados projetos ultilizando as seguintes tecnologias: JavaScript,TypeScript, Node.JS, HTML5, CSS3, SASS, Bootstrap, React, Next.JS.
